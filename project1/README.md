@@ -1,1 +1,17 @@
-README file for graphic design project1.
+# README file for graphic design project1 - MMMagazine.
+
+## Welcome to Moonlight Music Magazine!
+
+### Project Overview
+This graphic design project was inspired by a real event in my life. The course instructor encouraged us to utilize personal experiences to create a compelling magazine article, as well as front and back magazine covers. Something interesting to us that also allowed an opportunity to practice the design principles and skills we had been working on in class.
+
+### Inspiration 
+A few weeks before this project was rolled out, I had attended my first ever concert.
+
+My brother had purchased tickets to see Skillet live for my birthday. The venue, The 20 Monroe Live, was smaller, which was great since we could be right in the middle of everthing. As the crowd thinned out during the opening bands, we were able to get closer and closer to the stage. Using photos that I took myself, and the design principles we had spent weeks learning, I created Moonlight Music Magazine, where I could use a creative lense to address what that particular band, and seeing them live, meant to me.
+
+### Design Process
+I began with the concert images I took while in attendance, and used Adobe Indesign to create the magazine page templates. I played with colors, contrast, balance, heirarchy, and positioning to showcase exciting moments from the show, and then in the article sections I wrote about the experience itself and why it meant so much. I researched graphics related to the band and the types of fonts they typically use in their advertising, and began playing with these elements to determine what worked well for this project context specifically. The project pieces have since been edited in GIMP.
+
+### Future Work
+The instructor also showed us how to use mockups for showcasing our work, and let us know we would also be designing a record cover + various support products like promotional posters and record mockups for another project, which I tied into this one to keep the rock rolling. Please See project2-MistressMidnightBandBranding. 
